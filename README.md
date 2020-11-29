@@ -12,11 +12,13 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
-> pkg install git
-> pkg install ffmpeg
-> pkg install nodejs
+> termux-setup-storage
 > apt update && apt upgrade
+> pkg install git
 > git clone https://github.com/akungithub121020/HiroBot
+> 
+> pkg install nodejs
+
 > cd HiroBot
 > bash install.sh
 > node index.js
@@ -52,4 +54,4 @@ ket : ✅ : aktif
 * [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* Gopay : 0881-0260-65014 firman
